@@ -13,7 +13,7 @@ layout: default
     <article class="post-card">
       <span class="tag">{{ post.pillar }}</span>
       <small>{{ post.date | date: '%B %d, %Y' }}</small>
-      <h3><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></h3>
+      <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
       <p>{{ post.excerpt | strip_html | truncate: 140 }}</p>
     </article>
   {% endfor %}

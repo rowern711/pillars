@@ -127,8 +127,7 @@ a:hover {
 }
 
 .post-card h3 {
-  margin-top: 0;
-  margin-bottom: 0.6rem;
+  margin: 0rem;
 }
 
 .post-card .tag {

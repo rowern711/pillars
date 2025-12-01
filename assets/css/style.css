@@ -85,7 +85,7 @@ a:hover {
   border: 3px solid var(--ink);
   box-shadow: 6px 6px 0 var(--shadow);
   margin: 1rem 0 2rem;
-  min-height: 240px;
+  /* min-height: 240px; */
   display: grid;
   align-items: center;
 }
@@ -193,6 +193,6 @@ code, pre {
     font-size: 2.2rem;
   }
   .hero {
-    min-height: 180px;
+    /* min-height: 180px; */
   }
 }

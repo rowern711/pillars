@@ -8,6 +8,7 @@ If you ran reality like a randomizer—spinning dials for the laws of physics, t
 That “why here?” is the heart of the fine-tuning argument for God.
 
 
+
 ## 1. What “Fine-Tuning” Actually Means
 
 “Fine-tuning” does **not** mean:

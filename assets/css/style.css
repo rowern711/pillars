@@ -92,7 +92,7 @@ a:hover {
 
 .hero-overlay {
   background: rgba(255, 250, 240, 0.86);
-  padding: 2rem;
+  padding: 0.5rem 2rem;
 }
 
 .hero h2 {

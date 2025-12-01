@@ -1,6 +1,5 @@
 ---
-title: Policy After Midnight
-pillar: Policy
+title: An Introduction
 ---
 The **policy pillar** leans into late-night analysis. We tally budgets on napkins, look at how procedural votes actually work, and sketch a quick checklist for evaluating a bill with your friends before group chat sleep mode kicks in.
 

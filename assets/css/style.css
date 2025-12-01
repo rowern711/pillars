@@ -84,7 +84,7 @@ a:hover {
   background: url('pillars/assets/images/pillar-header.svg') center/cover no-repeat;
   border: 3px solid var(--ink);
   box-shadow: 6px 6px 0 var(--shadow);
-  margin: 1rem 0 2rem;
+  margin: 0rem 0 2rem;
   /* min-height: 240px; */
   display: grid;
   align-items: center;

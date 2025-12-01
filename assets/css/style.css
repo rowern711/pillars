@@ -173,6 +173,10 @@ article.post {
   padding-bottom: 0.5rem;
 }
 
+.post-header h1 {
+  margin-bottom: 0.5rem;
+}
+
 .post-meta {
   font-family: 'Montserrat', sans-serif;
   color: #6b4c3e;
